@@ -1,2 +1,12 @@
-/dist/
+# Ignore NetBeans build and private folders
 /build/
+/nbbuild/
+/dist/
+/nbproject/private/
+/*.class
+
+# Optional: OS/IDE stuff
+.DS_Store
+*.log
+*.iml
+.idea/
