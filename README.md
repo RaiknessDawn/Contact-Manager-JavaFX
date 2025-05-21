@@ -1,5 +1,8 @@
 # Contact Manager – JavaFX
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge)
+-
 A Java-based desktop GUI application for managing personal and professional contacts. Built using JavaFX and object-oriented principles.
 
 ## ✨ Features
